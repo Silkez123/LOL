@@ -1,4 +1,4 @@
 Hello 
-My name is Silas
-I think one plus one is a phone
-What's your bame
+My name is Silas. 
+I think Oneplus is an awesome phone company. 
+What's your name?
